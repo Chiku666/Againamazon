@@ -1,0 +1,5 @@
+@media (max-width: 1000px) and (min-width: 600px) {
+    div {
+        width: 250px;
+    }
+}
